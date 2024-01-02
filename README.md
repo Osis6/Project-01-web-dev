@@ -1,2 +1,2 @@
-# Project-06-web-rewards-07
+# Project-07-web-rewards-07
 
