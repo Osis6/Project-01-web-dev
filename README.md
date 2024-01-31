@@ -1,2 +1,2 @@
-# Project-P07-web-PROJECT-P08
+# P07-web-PROJECT-P08
 
